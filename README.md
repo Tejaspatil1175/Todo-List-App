@@ -1,7 +1,7 @@
 # Todo List App
 
 ## Description
-A simple and efficient Todo List application built with [list your technologies here, e.g., HTML, CSS, JavaScript, React]. This app allows users to manage their tasks with features like adding, editing, and deleting tasks.
+A simple and efficient Todo List application built with [list your technologies here, e.g., HTML, CSS, JavaScript, . This app allows users to manage their tasks with features like adding, editing, and deleting tasks.
 
 ## Features
 - Add new tasks
